@@ -1,0 +1,53 @@
+[07Jul2025 00:02:40.661] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3077ms or 61 ticks
+[07Jul2025 00:02:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg has made the advancement [No Longer Short-Staffed]
+[07Jul2025 00:04:08.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg has made the advancement [Abilities -Trick Dodge-          ]
+[07Jul2025 00:04:47.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/371, l='ServerLevel[world]', x=198.92, y=88.56, z=76.40] died, message: 'Nitwit was sliced to death by a ceiling fan'
+[07Jul2025 00:06:24.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Jul2025 00:06:42.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Jul2025 00:07:00.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
+[07Jul2025 00:07:09.345] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
+[07Jul2025 00:07:19.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[07Jul2025 00:07:37.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3696ms or 73 ticks behind
+[07Jul2025 00:07:55.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
+[07Jul2025 00:09:51.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg was blown up by Creeper
+[07Jul2025 00:10:11.557] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3053ms or 61 ticks
+[07Jul2025 00:19:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hello
+[07Jul2025 00:26:10.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devilfg lost connection: Disconnected
+[07Jul2025 00:26:10.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg left the game
+[07Jul2025 00:26:10.690] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 00:27:23.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Devilfg[/127.134.22.198:52605] logged in with entity id 112537 at (190.6170181867609, 80.0, -21.73634499927118)
+[07Jul2025 00:27:23.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg joined the game
+[07Jul2025 00:30:50.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg has made the advancement [Capturing Mobs]
+[07Jul2025 00:31:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg has made the advancement [Capture a mob using a Capture Cell]
+[07Jul2025 00:34:38.330] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 15 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@1316c5a2
+[07Jul2025 00:35:36.549] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 17 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@32228c85
+[07Jul2025 00:35:37.802] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 18 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@299b5c98
+[07Jul2025 00:36:54.896] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 19 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@2a1ebded
+[07Jul2025 00:38:49.427] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3033ms or 60 ticks
+[07Jul2025 00:41:02.536] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 21 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@1e6283a2
+[07Jul2025 00:41:20.693] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 23 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@4e271227
+[07Jul2025 00:41:39.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devilfg lost connection: Timed out
+[07Jul2025 00:41:39.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg left the game
+[07Jul2025 00:55:50.387] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46875519[id=<null>,name=Devilfg,properties={},legacy=false] (/127.134.22.198:41925) lost connection: Disconnected
+[07Jul2025 00:58:41.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MonitaXD001 lost connection: Disconnected
+[07Jul2025 00:58:41.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MonitaXD001 left the game
+[07Jul2025 00:58:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2025 00:58:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2025 00:58:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2025 00:58:52.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2025 00:58:52.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2025 00:58:52.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2025 00:58:52.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[07Jul2025 00:58:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2025 00:58:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[07Jul2025 00:58:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2025 00:58:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2025 00:58:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[07Jul2025 00:58:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2025 00:58:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[07Jul2025 00:58:52.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jul2025 00:58:52.805] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jul2025 00:58:52.807] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[07Jul2025 00:58:52.809] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jul2025 00:58:52.809] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Jul2025 00:58:52.810] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
